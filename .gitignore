@@ -53,3 +53,4 @@ dkms.conf
 
 # Var stuff
 number_of_fasta_seqs
+.*
