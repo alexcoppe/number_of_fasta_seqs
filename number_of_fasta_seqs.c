@@ -39,7 +39,6 @@ int main(int argc, char *argv[]){
                 return 0;
             default:
                 header = 0;
-                puts("invalid option: ");
                 return -1;
         }
     }
