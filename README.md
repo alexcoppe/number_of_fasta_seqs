@@ -15,7 +15,7 @@ To obtain the usage help just launch the program with the -h option:
 
 ```
 ./number_of_fasta_seqs -h
-Usage program [OPTION]... FASTA_FILE.
+Usage: number_of_fasta_seqs  [OPTION]... FASTA_FILE.
   -d	show only description lines
   -h	show help options
 ```

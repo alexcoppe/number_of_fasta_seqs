@@ -23,7 +23,7 @@ int main(int argc, char *argv[]){
     int number_of_sequences = 0;
     char first_char;
     /* Help string */
-    char help[] = "Usage program [OPTION]... FASTA_FILE.\n  "
+    char help[] = "Usage: number_of_fasta_seqs  [OPTION]... FASTA_FILE.\n  "
         "-d\tshow only description lines\n  "
         "-h\tshow help options";
 
